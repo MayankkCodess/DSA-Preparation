@@ -1,0 +1,1 @@
+All types of sorting are in the bubble sort as functions
